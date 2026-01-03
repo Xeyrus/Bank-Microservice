@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Microservice bank cards related to Prod APIs "
+  contactDetails:
+    name: "Jhan Cards Doe - Developer"
+    email: "jhan cards @doe.com"
+  onCallSupport:
+    - (555) 555-5555
+    - (666) 666-6666

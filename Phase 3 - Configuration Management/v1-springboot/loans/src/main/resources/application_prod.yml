@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Microservice bank loans related to Prod APIs "
+  contactDetails:
+    name: "Jhan Loans Doe - Prod Developer"
+    email: "jhanloans@doe.com"
+  onCallSupport:
+    - (000) 000-0000
+    - (999) 999-9999

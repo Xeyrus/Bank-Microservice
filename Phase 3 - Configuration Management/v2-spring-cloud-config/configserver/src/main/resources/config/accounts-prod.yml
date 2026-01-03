@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Microservice bank accounts related to Prod APIs "
+  contactDetails:
+    name: "Jhan Doe - Developer"
+    email: "jhan@doe.com"
+  onCallSupport:
+    - (777) 123-4444
+    - (777) 222-9876
