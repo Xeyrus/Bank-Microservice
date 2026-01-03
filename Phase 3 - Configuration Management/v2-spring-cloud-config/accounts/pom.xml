@@ -149,7 +149,7 @@
 				<version>3.5.1</version>
 				<configuration>
 					<to>
-						<image>xeyrus/${project.artifactId}:v2</image>
+						<image>xeyrus/${project.artifactId}:v3</image>
 					</to>
 				</configuration>
 			</plugin>
