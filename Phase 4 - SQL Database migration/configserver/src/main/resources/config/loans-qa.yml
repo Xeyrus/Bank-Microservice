@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Microservice bank loans related to QA APIs "
+  contactDetails:
+    name: "Jane Loans Doe - QA Lead"
+    email: "janeloans@doe.com"
+  onCallSupport:
+    - (123) 123-1235
+    - (244) 244-2444

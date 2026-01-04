@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Phase 3 - Configuration Management/v2-spring-cloud-config/configuration/config" vcs="Git" />
   </component>
 </project>
