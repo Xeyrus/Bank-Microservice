@@ -1,0 +1,42 @@
+spring:
+  application:
+    name: "configserver"
+
+  profiles:
+    # active: native # native only for classpath or file system configurations
+    active: git
+
+  cloud:
+    config:
+      server:
+        # native:
+          # searchLocations: "classpath:/config"
+          # searchLocations: "file:///C:/Users/Satyanand Tiwari/Desktop/My docs/Bank Microservice/Phase 3 - Configuration Management/v2-spring-cloud-config/configuration/config"
+        git:
+          uri: "https://github.com/Xeyrus/Bank-Microservice-Config.git"
+          default-label: main
+          timeout: 5
+          clone-on-start: true
+          force-pull: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  health:
+    readiness-state:
+      enabled: true
+    liveness-state:
+      enabled: true
+  endpoint:
+    health:
+      probes:
+        enabled: true
+
+encrypt:
+  key: "a-very-complex-secret-key"
+
+server:
+  port: 8071
+
