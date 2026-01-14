@@ -5,7 +5,7 @@ loans:
   message: "Welcome to Microservice bank loans related to local APIs"
   contactDetails:
     name: "John Loans Doe - Local Developer"
-    email: "johnloans@doe.com"
+    email: "{cipher}ab8b4481aa71189ce473dcd5241d263a6aa431eb07eb51e4952945effbcd422b24c6452aded56295c406f3e2f75ed283"
   onCallSupport:
     - (777) 777-7777
     - (888) 888-8888

@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Microservice bank accounts related to QA APIs "
   contactDetails:
     name: "Jane Doe - QA Lead"
-    email: "jane@doe.com"
+    email: "{cipher}19c43af402d32190cf836238dd79fceb36a1c0288206dc4cc61c07e3dcb00502"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371

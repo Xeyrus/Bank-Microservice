@@ -5,7 +5,7 @@ cards:
   message: "Welcome to Microservice bank cards related to QA APIs "
   contactDetails:
     name: "Jane Cards Doe - QA Lead"
-    email: "janecards@doe.com"
+    email: "{cipher}4dc0dd4c293e23ab5ec70c93c191cbf51431d6dc87f64f3152cead348ce86d147c1729baa8c63c5ba427e29a4512e59a"
   onCallSupport:
     - (333) 333-3333
     - (444) 444-4444

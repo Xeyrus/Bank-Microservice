@@ -5,7 +5,7 @@ cards:
   message: "Welcome to Microservice bank cards related to local APIs"
   contactDetails:
     name: "John Cards Doe - Developer"
-    email: "johncards@doe.com"
+    email: "{cipher}0021630a1902e075f04c300d735f266a95d2743c57f47c128bfb4346a0de716a5209dd87c87a813b078e05e721c97218"
   onCallSupport:
     - (111) 111-1111
     - (222) 222-2222
